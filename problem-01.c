@@ -12,3 +12,4 @@ int main()
     printf("%.3f", (*p + *q) / 2);
     return 0;
 }
+// Just changing and committing so I can see the result
